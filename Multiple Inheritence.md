@@ -4,7 +4,7 @@ This Python program demonstrates **multiple inheritance** by performing basic ar
 
 ## 🎯 Aim
 
-To write a Python program to calculate **Add, Sub & Division** using **Multiple Inheritance**.
+To write a Python program to calculate **Add, Sub & Division** using **Multiple Inheritance**
 
 ## 🧠 Algorithm
 
