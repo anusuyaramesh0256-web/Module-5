@@ -4,7 +4,7 @@ This Python project demonstrates **Hierarchical Inheritance** using a base class
 
 ## 🎯 Aim
 
-To write a Python program that uses **Hierarchical Inheritance** to input and display **Employee** and **Patient** details.
+To write a Python program that uses **Hierarchical Inheritance** to input and display **Employee** and **Patient** details
 
 ## 📘 Description
 
