@@ -4,7 +4,7 @@ This Python project demonstrates the concept of **Multilevel Inheritance** to co
 
 ## 🎯 Aim
 
-To write a Python program that uses multilevel inheritance to get and display a person’s name, age, and location.
+To write a Python program that uses multilevel inheritance to get and display a person’s name, age, and location
 
 ## 🧠 Algorithm
 
